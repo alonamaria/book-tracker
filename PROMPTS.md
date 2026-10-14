@@ -15,6 +15,18 @@
 5. **Improve visual clarity without changing behavior**
 "Improve the visual hierarchy and contrast of the headings, status controls, and Delete action while preserving the book-themed style, responsive layout, and existing behavior."
 
+## Manual test results
+
+Tested the live site in a browser:
+
+- Tried adding a book once with a blank title and once with a blank author. Each attempt showed the corresponding validation message and did not add a book.
+- Added a temporary test book and refreshed the page. The book remained on the shelf.
+- Changed a book's status, refreshed, and confirmed the new status remained saved.
+- Searched for "BEN" and confirmed that "Benyamin" was found.
+- Filtered by Finished and confirmed only finished books appeared.
+- Deleted the temporary test book and confirmed it was removed. The shelf was restored to its original six books.
+
+
 ## One time the AI got it wrong
 
 The AI initially said the page was ready for phones, but the Delete button was hidden until hover, which is not reliable on a touchscreen. I pointed out the issue and asked for the mobile controls to stay visible, and the layout was updated so Delete is easy to find and tap.
