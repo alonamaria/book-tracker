@@ -7,14 +7,6 @@ BookTrack is a simple, responsive web app for keeping track of books I want to r
 - **Live website:** https://alonamaria.github.io/book-tracker/
 - **GitHub repository:** https://github.com/alonamaria/book-tracker
 
- ## Email
-
-alonamaria80@gmail.com
-
-## AI tools used
-
-Chat GPT,GitHub Copilot
-
 ## What the app can do
 
 - Add a book with its title, author, and reading status.
