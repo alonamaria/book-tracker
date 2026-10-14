@@ -4,8 +4,8 @@ BookTrack is a simple, responsive web app for keeping track of books I want to r
 
 ## Project links
 
-- **Live website:** Add your GitHub Pages URL after publishing.
-- **GitHub repository:** Add your public repository URL after creating it.
+- **Live website:** https://alonamaria.github.io/book-tracker/
+- **GitHub repository:** https://github.com/alonamaria/book-tracker
 
 ## What the app can do
 
